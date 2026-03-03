@@ -140,7 +140,7 @@ uvicorn main:app --reload
 
 Docs available at:
 
-http://localhost:8000/docs
+[http://localhost:8000](https://api.inforx.health/)/docs
 
 ------------------------------------------------------------------------
 
