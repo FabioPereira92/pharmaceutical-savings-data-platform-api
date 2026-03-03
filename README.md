@@ -1,6 +1,6 @@
 # Pharmaceutical Savings Data Platform API
 
-A production-ready FastAPI backend for drug affordability and copay program access.
+A production-ready FastAPI backend for drug affordability and copay program access, live at **https://api.inforx.health/**.
 
 This project demonstrates secure API design, API key lifecycle management, token-bucket rate limiting (Redis-backed), structured logging, metrics collection, and clean environment-based configuration. It is designed to showcase production-grade backend engineering practices.
 
