@@ -1,4 +1,4 @@
-# Copay Programs API
+# Pharmaceutical Savings Data Platform API
 
 A production-ready FastAPI backend for drug affordability and copay program access.
 
